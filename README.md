@@ -6,6 +6,7 @@ often forget which ones I've played. As a result, I thought I'd put together
 a nice list, which you can freely contribute to. 
 
 - [Chessle][chessle]: guess an opening chess sequence in 6 guesses
+- [Globle][globle]: guess a country by proximity in 6 guesses
 - [Semantle][semantle]: guess a word based on its semantics in unlimited guesses
 - [Tradle][tradle]: guess a country based on its exports in 6 guesses
 - [Wordle][wordle]: guess a 5-letter word in 6 guesses
@@ -13,6 +14,7 @@ a nice list, which you can freely contribute to.
 
 
 [chessle]: https://jackli.gg/chessle/
+[globle]: https://globle-game.com/
 [semantle]: https://semantle.com/
 [tradle]: https://oec.world/en/tradle/
 [wordle]: https://www.nytimes.com/games/wordle/index.html
